@@ -1,6 +1,10 @@
-# Dekalog articles
+# Dekalog posts
 
-Dekalog articles are written by community in [Markdown format](http://commonmark.org).
+Dekalog posts are written by community in [Markdown format](http://commonmark.org).
+
+## Markdown Editor
+
+We recommend [StackEdit](https://stackedit.io) editor.
 
 ## License
 
