@@ -13,6 +13,10 @@ author:
   name: svetbehu.cz
   url: http://www.svetbehu.cz/trenink-na-pulmaraton/20666-desatero-vyzivovych-rad-pro-pulmaraton/
 image:
+  name: Runners at the start of the 2012 Borgess Half Marathon
+  url: https://www.flickr.com/photos/80240627@N04/7415165068
+  author: Simon Thalmann
+  license: CC BY 2.0
 video:
 draft: false
 ---
