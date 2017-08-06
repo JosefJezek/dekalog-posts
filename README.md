@@ -8,7 +8,7 @@ We recommend [StackEdit](https://stackedit.io) editor.
 
 ## Images
 
-Images are from [Creative Commons Search](https://ccsearch.creativecommons.org).
+Images are from [Creative Commons Search](https://ccsearch.creativecommons.org) and optimized using [TinyPNG](https://tinypng.com).
 
 ## License
 
