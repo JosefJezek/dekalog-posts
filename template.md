@@ -13,6 +13,10 @@ author:
   name:
   url:
 image:
+  name:
+  url:
+  author:
+  license: CC BY 2.0
 video:
 draft: false
 ---
