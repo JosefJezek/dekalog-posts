@@ -1,17 +1,23 @@
 ---
 title: Decalogue of nutritional advice for a half-marathon
 slug: half-marathon-nutrition
-date_publish: 2015-03-30
-date_modify: 2015-03-30
-lang: en
-author: svetbehu.cz
-author_url: http://www.svetbehu.cz/trenink-na-pulmaraton/20666-desatero-vyzivovych-rad-pro-pulmaraton/
-tags: sport, nutrition
+categories:
+  - Hints and tips
+tags:
+  - sport
+  - nutrition
+date: 2017-08-06
+lastmod: 2017-08-06
+publishdate: 2017-08-06
+author:
+  name: svetbehu.cz
+  url: http://www.svetbehu.cz/trenink-na-pulmaraton/20666-desatero-vyzivovych-rad-pro-pulmaraton/
+image:
+video:
+draft: false
 ---
 
-# Decalogue of nutritional advice for a half-marathon
-
-On the race with a length of 21.1 km is no longer needed to properly prepare and certainly not neglect. What is important is obviously a long-term training preparation, but a few days before the race, nothing Training catch up. But as the day include such a race?
+On the race with a length of 21.1 km is no longer needed to properly prepare and certainly not neglect.<!--more--> What is important is obviously a long-term training preparation, but a few days before the race, nothing Training catch up. But as the day include such a race?
 
 ## 1. Food before the race
 
