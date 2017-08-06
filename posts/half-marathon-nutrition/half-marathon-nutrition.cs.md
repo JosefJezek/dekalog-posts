@@ -1,17 +1,23 @@
 ---
 title: Desatero výživových rad pro půlmaratón
 slug: pulmaraton-vyziva
-date_publish: 2015-03-30
-date_modify: 2015-03-30
-lang: cs
-author: svetbehu.cz
-author_url: http://www.svetbehu.cz/trenink-na-pulmaraton/20666-desatero-vyzivovych-rad-pro-pulmaraton/
-tags: sport, výživa
+categories:
+  - Rady a tipy
+tags:
+  - sport
+  - výživa
+date: 2017-08-06
+lastmod: 2017-08-06
+publishdate: 2017-08-06
+author:
+  name: svetbehu.cz
+  url: http://www.svetbehu.cz/trenink-na-pulmaraton/20666-desatero-vyzivovych-rad-pro-pulmaraton/
+image:
+video:
+draft: false
 ---
 
-# Desatero výživových rad pro půlmaratón
-
-Na závod o délce 21,1 km je už potřeba se pořádně připravit a rozhodně nic nezanedbat. Důležitá je samozřejmě dlouhodobá tréninková příprava, ale pár dní před závodem už nic tréninkově nedoženeme. Jak se ale stravovat v den takového závodu?
+Na závod o délce 21,1 km je už potřeba se pořádně připravit a rozhodně nic nezanedbat.<!--more--> Důležitá je samozřejmě dlouhodobá tréninková příprava, ale pár dní před závodem už nic tréninkově nedoženeme. Jak se ale stravovat v den takového závodu?
 
 ## 1. Jídlo před závodem
 
